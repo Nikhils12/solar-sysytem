@@ -27,10 +27,7 @@
 - **JavaScript / HTML / CSS** – Core web technologies  
 - **Netlify** – Hosting and deployment  
 
----
 
-
----
 
 ## 🛠️ Installation & Usage  
 
