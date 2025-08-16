@@ -29,8 +29,6 @@
 
 ---
 
-## 📸 Preview  
-![Banner](banner.png)  
 
 ---
 
